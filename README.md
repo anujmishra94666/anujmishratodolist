@@ -1,2 +1,0 @@
-# anujmishratodolist
-Created with CodeSandbox
